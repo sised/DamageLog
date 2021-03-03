@@ -1,0 +1,10 @@
+Damage Log is a Quality of Life mod that prints a message every time you get hit, containing information about the hit. 
+
+Includes:
+Enemy damage, Projectile damage, fall damage, lava damage, PVP
+
+Useful for challenge players.
+
+example: "Player got hit by Plantera, 50 Damage!"
+
+note: not sure if PVP works yet, haven't tested it (no friends ;-;)
