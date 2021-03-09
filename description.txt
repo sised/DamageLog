@@ -1,10 +1,11 @@
-Damage Log is a Quality of Life mod that prints a message every time you get hit, containing information about the hit. 
+Challenger's Utility is a quality of life mod aimed towards challenge players (like nohitters) it has a few functions that can be enabled/disabled via config:
 
-Includes:
-Enemy damage, Projectile damage, fall damage, lava damage, PVP
+1: DAMAGE LOG
+logs most types of damage in chat, includes: PVP, Enemies, Projectiles, Lava, Fall damage
+Custom collision from other mods not supported.
 
-Useful for challenge players.
+2: CLEAR EVERYTHING ON DEATH
+clears hostile NPCs and Projectiles on death
 
-example: "Player got hit by Plantera, 50 Damage!"
-
-note: not sure if PVP works yet, haven't tested it (no friends ;-;)
+3: RECORDING LOG
+tells you wether or not it is recording, set the shortcut to the same shortcut as start/stop on obs or whatever you're using, and make sure that it is synced (NOTE: The mod itself cannot record gameplay, you need a recording software!)
